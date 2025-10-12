@@ -64,3 +64,9 @@
 - Project: Python
 - Grade: 
 - Notes: 
+
+## Hosna Beiki
+- Project: Student Portal
+- Project Link: https://github.com/kuika-ren/studentportalxd
+- Grade: 
+- Notes: 
