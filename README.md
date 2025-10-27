@@ -7,7 +7,7 @@
 ## Kiana kaykhosravi
 - Project: Laravel
 - Grade: 
-- Notes: 
+- Notes: https://github.com/kyanakykhsrwy8-droid/mig-mig
 
 
 ## Amirhosein Vosoghnia
@@ -41,17 +41,15 @@
 
 
 ## Sobhan Askari
-- Project: Pet Adoption
-- Project Link: https://github.com/sobhan051/pet_adoption
+- Project: PHP
 - Grade: 
-- Notes: 
+- Notes: https://github.com/sobhan051/pet_adoption
 
 
 ## Amin Esmaeili
-- Project: Rental Car
-- Project Link: https://github.com/Esmaeili01/rental_car
+- Project: Python
 - Grade: 
-- Notes: 
+- Notes: https://github.com/Esmaeili01/rental_car
 
 
 ## Tina Navi
@@ -65,8 +63,26 @@
 - Grade: 
 - Notes: 
 
+
 ## Hosna Beiki
-- Project: Student Portal
-- Project Link: https://github.com/kuika-ren/studentportalxd
+- Project: Python
 - Grade: 
-- Notes: 
+- Notes: https://github.com/kuika-ren/studentportalxd
+
+
+## Nadim Nikzai
+- Project: PHP
+- Grade: 
+- Notes: https://github.com/nadimnikzai/drugs_database
+
+
+## Amirreza Rezaee
+- Project: Node.js
+- Grade: 
+- Notes: https://github.com/LeDerouxe/Text-Editing-Server
+
+
+## Fatemeh Torkamani
+- Project: PHP
+- Grade: 
+- Notes: https://github.com/fatemeh-trk/university_website
