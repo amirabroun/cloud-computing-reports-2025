@@ -22,12 +22,6 @@
 - Notes: 
 
 
-## Delaram Heydari
-- Project: React
-- Grade: 
-- Notes: 
-
-
 ## Hosna Ahmadi
 - Project: Django
 - Grade: 
@@ -86,3 +80,75 @@
 - Project: PHP
 - Grade: 
 - Notes: https://github.com/fatemeh-trk/university_website
+
+
+## Mahdi Wazin
+- Project: PHP
+- Grade: 
+- Notes: https://github.com/mahdiv44/prj-library
+
+
+## Parisa Ghorbanpour
+- Project: Js
+- Grade: 
+- Notes: https://github.com/Parisilto/my-app.git
+
+
+## Parisa Ghorbanpour
+- Project: Js
+- Grade: 
+- Notes: https://github.com/Parisilto/my-app.git
+
+
+## Yeganeh Safari
+- Project: Python
+- Grade: 
+- Notes: https://github.com/yeganeh0022/py_project.git
+
+
+## Maryam Ghodsi
+- Project: Python
+- Grade: 
+- Notes: https://github.com/MaryamGhodsi8/CloudComputing.git
+
+
+## Mahsa Ghorouneh
+- Project: Front
+- Grade: 
+- Notes:
+
+
+## Delaram Heydari
+- Project: Python
+- Grade: 
+- Notes: https://github.com/del52/event-manager
+
+
+## Fatemeh Zarei
+- Project: Django
+- Grade: 
+- Notes: 
+
+
+## Erfan Mogheiseh
+- Project: Js
+- Grade: 
+- Notes: https://github.com/erfanmgh/todo-list
+
+
+## Amirhossein Nasrabadi
+- Project: Php
+- Grade: 
+- Notes: Delay - https://github.com/amirhossein-ns/student-feedback
+
+
+## Ehsan Fatemi
+- Project: Php
+- Grade: 
+- Notes: Delay - https://github.com/ehsanfatemi1/Parking-System
+
+
+## Moeid Jalili
+- Project: Php
+- Grade: 
+- Notes: Delay - https://github.com/MoeidJalili/contact-manager
