@@ -102,7 +102,7 @@
 
 ## Yeganeh Safari
 - Project: Python
-- Grade: 
+- Grade: complete
 - Notes: https://github.com/yeganeh0022/py_project.git
 
 
