@@ -30,8 +30,8 @@
 
 ## Zahra Bakhshabadi
 - Project: Django
-- Grade: 
-- Notes: 
+- Grade: complete
+- Notes: https://github.com/zahara-b/django-docker-CRUD
 
 
 ## Sobhan Askari
