@@ -25,7 +25,7 @@
 ## Hosna Ahmadi
 - Project: Django
 - Grade: 
-- Notes: 
+- Notes: complete
 
 
 ## Zahra Bakhshabadi
