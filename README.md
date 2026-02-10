@@ -1,6 +1,6 @@
 ## Amirreza
 - Project: Node.js
-- Grade: 
+- Grade: 4
 - Notes: 
 
 
@@ -24,7 +24,7 @@
 
 ## Hosna Ahmadi
 - Project: Django
-- Grade: 
+- Grade: complete
 - Notes: complete
 
 
@@ -48,7 +48,7 @@
 
 ## Tina Navi
 - Project: Django
-- Grade: 
+- Grade: complete
 - Notes: 
 
 
@@ -60,13 +60,13 @@
 
 ## Hosna Beiki
 - Project: Python
-- Grade: 
+- Grade: complete
 - Notes: https://github.com/kuika-ren/studentportalxd
 
 
 ## Nadim Nikzai
 - Project: PHP
-- Grade: 
+- Grade: 4
 - Notes: https://github.com/nadimnikzai/drugs_database
 
 
@@ -84,19 +84,13 @@
 
 ## Mahdi Wazin
 - Project: PHP
-- Grade: 
+- Grade: 4
 - Notes: https://github.com/mahdiv44/prj-library
 
 
 ## Parisa Ghorbanpour
 - Project: Js
-- Grade: 
-- Notes: https://github.com/Parisilto/my-app.git
-
-
-## Parisa Ghorbanpour
-- Project: Js
-- Grade: 
+- Grade: complete
 - Notes: https://github.com/Parisilto/my-app.git
 
 
