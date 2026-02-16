@@ -1,12 +1,17 @@
-## Amirreza
+## Amirreza mohammadi
 - Project: Node.js
-- Grade: 4
+- Grade: 3
 - Notes: 
+
+## Milad Arghiani
+- Project: 
+- Grade: 1
+- Notes:
 
 
 ## Kiana kaykhosravi
 - Project: Laravel
-- Grade: complete
+- Grade: 5
 - Notes: https://github.com/kyanakykhsrwy8-droid/mig-mig
 
 
@@ -15,29 +20,45 @@
 - Grade: 
 - Notes: 
 
+## Navid Amelian
+- Project: Laravel
+- Grade: 1.75
+- Notes: 
+
 
 ## Ali Nikookhesal
-- Project: Django
+- Project: 
 - Grade: 
 - Notes: 
 
 
 ## Hosna Ahmadi
 - Project: Django
-- Grade: complete
-- Notes: complete
+- Grade: 5
+- Notes: 5
 
 
 ## Zahra Bakhshabadi
 - Project: Django
-- Grade: complete
+- Grade: 5
 - Notes: https://github.com/zahara-b/django-docker-CRUD
 
 
 ## Sobhan Askari
 - Project: PHP
-- Grade: 
+- Grade: 5
 - Notes: https://github.com/sobhan051/pet_adoption
+
+
+## Mohammad entezari
+- Project: 
+- Grade: 3
+- Notes:
+
+## Mahsa ghoroone
+- Project: 
+- Grade: 3
+- Notes:
 
 
 ## Amin Esmaeili
@@ -48,19 +69,19 @@
 
 ## Tina Navi
 - Project: Django
-- Grade: complete
+- Grade: 5
 - Notes: 
 
 
 ## Amir Tavana
 - Project: Python
-- Grade: 
+- Grade: 4
 - Notes: 
 
 
 ## Hosna Beiki
 - Project: Python
-- Grade: complete
+- Grade: 5
 - Notes: https://github.com/kuika-ren/studentportalxd
 
 
@@ -78,25 +99,25 @@
 
 ## Fatemeh Torkamani
 - Project: PHP
-- Grade: 
+- Grade: 1.5
 - Notes: https://github.com/fatemeh-trk/university_website
 
 
 ## Mahdi Wazin
 - Project: PHP
-- Grade: 4
+- Grade: 3
 - Notes: https://github.com/mahdiv44/prj-library
 
 
 ## Parisa Ghorbanpour
 - Project: Js
-- Grade: complete
+- Grade: 5
 - Notes: https://github.com/Parisilto/my-app.git
 
 
 ## Yeganeh Safari
 - Project: Python
-- Grade: complete
+- Grade: 5
 - Notes: https://github.com/yeganeh0022/py_project.git
 
 
@@ -140,6 +161,11 @@
 - Project: Php
 - Grade: 
 - Notes: Delay - https://github.com/ehsanfatemi1/Parking-System
+
+## Hosna beyki
+- Project: 
+- Grade: 5
+- Notes: 
 
 
 ## Moeid Jalili
