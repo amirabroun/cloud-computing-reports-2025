@@ -9,6 +9,19 @@
 - Notes:
 
 
+## Ehsan fatemi
+- Project: 
+- Grade: 3.5
+- Notes:
+
+
+## Ali nikokhesal
+- Project: 
+- Grade: 3
+- Notes:
+
+
+
 ## Kiana kaykhosravi
 - Project: Laravel
 - Grade: 5
@@ -68,7 +81,7 @@
 
 ## Amin Esmaeili
 - Project: Python
-- Grade: 
+- Grade: 5
 - Notes: https://github.com/Esmaeili01/rental_car
 
 
@@ -80,7 +93,7 @@
 
 ## Amir Tavana
 - Project: Python
-- Grade: 4
+- Grade: 5
 - Notes: 
 
 
@@ -98,7 +111,7 @@
 
 ## Amirreza Rezaee
 - Project: Node.js
-- Grade: 
+- Grade: 5
 - Notes: https://github.com/LeDerouxe/Text-Editing-Server
 
 
